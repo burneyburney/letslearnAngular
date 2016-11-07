@@ -1,2 +1,4 @@
 # letslearnAngular
-playing around with angular 1.x and 2.x 
+
+    starting with Angular 1.x  
+    If apps are hosted then I will leave a link.  
