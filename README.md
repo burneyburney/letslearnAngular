@@ -1,4 +1,4 @@
-# letslearnAngular
+# letslearnAngular  
 
-    starting with Angular 1.x  
-    If apps are hosted then I will leave a link.  
+    TESTPROJECT holds Angular2 Project.
+
